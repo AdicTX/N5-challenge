@@ -7,7 +7,7 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina ante
 
    git clone https://github.com/AdicTX/N5-challenge.git
 
-   cd nombre-del-proyecto
+   cd n5-challenge
 
  2. Instala las dependencias utilizando npm:
     npm install
